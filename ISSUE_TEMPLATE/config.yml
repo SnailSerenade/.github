@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: View Documentation
+    url: https://docs.facepunch.com/s/sbox-dev
+    about: Check the documentation to see if that solves your issue
